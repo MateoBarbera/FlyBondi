@@ -1,0 +1,22 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+  }
+body {
+  background: rgb(236, 221, 191);
+  background: linear-gradient(90deg, rgba(247,241,229,1) 25%, rgba(232, 185, 46, 0.75) 50%, rgba(240, 206, 13, 0.808) 80%, rgb(213, 172, 9) 100%);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+  
+  .bg-curso{
+    background-color: #5a35aaa3;
+    
+  }
+  .form-control{
+    text-align: center;
+  }
